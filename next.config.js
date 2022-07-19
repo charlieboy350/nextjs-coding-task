@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 // next.config.js
 const path = require("path");
 const withPlugins = require("next-compose-plugins");

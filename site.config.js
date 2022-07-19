@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 module.exports = {
   title: "Next-Storybook-Boilerplate",
   description: "Halil Atilla Next-Storybook-Boilerplate",
